@@ -1,9 +1,3 @@
-# js-kata-starter
+# Fizz Buzz kata
 
-Starter project for kata (Node, TypeScript, Jest)
-
-## Getting started
-
-- **Fork**, then clone the repository
-- Install dependencies
-- Start developing (`npm test`)
+Implementation of the fizz buzz kata in TypeScript using TDD
